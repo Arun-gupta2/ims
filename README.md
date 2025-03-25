@@ -1,23 +1,24 @@
+# Inventory Management System
 
-The Inventory Management System is a desktop application developed using Python with Tkinter for the graphical user interface and MySQL for the database.
-This system helps manage inventory efficiently by tracking employees, products, suppliers, and warehouse stock levels.
+## Overview
+The Inventory Management System is a desktop application developed using Python with Tkinter for the graphical user interface and MySQL for the database. This system helps manage inventory efficiently by tracking employees, products, suppliers, and warehouse stock levels.
 
-# Features
-- User Authentication: Secure login and signup functionality.
-- Employee Management: Add, update, and manage employee records.
-- Product Management: Add, update, delete, and view products.
-- Supplier Management: Maintain supplier details and manage relationships.
-- Warehouse Management: Track stock levels and inventory movement.
+## Features
+- **User Authentication:** Secure login and signup functionality.
+- **Employee Management:** Add, update, and manage employee records.
+- **Product Management:** Add, update, delete, and view products.
+- **Supplier Management:** Maintain supplier details and manage relationships.
+- **Warehouse Management:** Track stock levels and inventory movement.
 
-# Technologies Used
-- Programming Language: Python (Tkinter for GUI)
-- Database: MySQL
-- Libraries & Tools:
+## Technologies Used
+- **Programming Language:** Python (Tkinter for GUI)
+- **Database:** MySQL
+- **Libraries & Tools:**
   - `tkinter` for GUI
   - `mysql-connector-python` for database connectivity
   - `Pillow` for handling images (if needed)
 
-# Modules
+## Modules
 1. **Login & Signup Module**
    - User authentication and registration.
    - Secure password storage and validation.
@@ -47,11 +48,12 @@ This system helps manage inventory efficiently by tracking employees, products, 
    python main.py
    ```
 
+## Screenshots
+(Add relevant screenshots of your application here)
 
 ## Future Enhancements
 - Implement user roles and permissions.
 - Generate detailed reports for inventory analysis.
 - Improve UI with better styling and responsiveness.
-
 
 
