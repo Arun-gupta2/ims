@@ -48,9 +48,6 @@ The Inventory Management System is a desktop application developed using Python 
    python main.py
    ```
 
-## Screenshots
-(Add relevant screenshots of your application here)
-
 ## Future Enhancements
 - Implement user roles and permissions.
 - Generate detailed reports for inventory analysis.
